@@ -17,6 +17,6 @@ Pi-Hole GUI Access
 
 Pi-Hole Console Access
 
-1. Set Up `gcloud` cli
+1. Set Up `gcloud` cli (See [GCP CLI Doc](../setting-up-google-cloud-project-cli-sdk.md))
 2. SSH into `pi-hole` instance: `gcloud compute ssh pi-hole` (Only omit Zone and Project if defaults are set)
 

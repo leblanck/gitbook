@@ -10,7 +10,7 @@ We currently use [WireGuard VPN](https://www.wireguard.com) for Split-Tunnel VPN
 
 ### Adding New WireGuard Clients
 
-1. SSH into `pi-hole` instance in GCP. (See Setting up GCP CLI Doc)
+1. SSH into `pi-hole` instance in GCP. (See Setting up [GCP CLI Doc](../setting-up-google-cloud-project-cli-sdk.md))
 2. Run `sudo su -`
 3. Run `./setup.sh` from the root user root directory.
 4. Save either the QR Code for iOS devices, or export the data in the created `.conf` file for use in the WireGuard macOS/Windows Client

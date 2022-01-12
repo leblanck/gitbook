@@ -9,7 +9,7 @@ Prerequisites:&#x20;
 * Pyhon 3
 * iTerm2 with powerline 10k ;)&#x20;
 
-![Hint: when you have the GCP SDK & Powerline 10K installed with a default project, as soon as you type gcloud, your default project will appear so you always know where you are in GCP project space](<../.gitbook/assets/Screen Shot 2022-01-12 at 3.20.54 PM.png>)
+![Hint: when you have the GCP SDK & Powerline 10K installed with a default project, as soon as you type gcloud, your default project will appear so you always know where you are in GCP project space](<.gitbook/assets/Screen Shot 2022-01-12 at 3.20.54 PM.png>)
 
 Download and extract the sdk install from the link below:&#x20;
 
