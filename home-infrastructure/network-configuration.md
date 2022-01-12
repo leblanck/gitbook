@@ -6,6 +6,8 @@ description: Home/Cloud Infrastructure Setup
 
 ## Google Cloud Setup
 
+![](../.gitbook/assets/GCP.png)
+
 ## On-Prem Setup
 
 Our on-prem setup was configured as below. This has now been decomissioned during our move.&#x20;
