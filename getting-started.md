@@ -22,7 +22,7 @@ Adapted from the following article. Please see article for more information.
 
 #### Check For Existing Keys
 
-1. In terminal, run: `$ ssh-keygen -t rsa -b 4096 -C ["your_email@example.com](mailto:%22your_email@example.com)"`
+1. In terminal, run: `$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 2. Press enter to accept the default save location of `~/.ssh/id_rsa`
 3. Enter a secure passphrase (If need save it in 1Password)
 
