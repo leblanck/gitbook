@@ -2,11 +2,11 @@
 description: Home/Cloud Infrastructure Setup
 ---
 
-# Network Configuration
+# Infrastructure Configuration
 
 ## Google Cloud Setup
 
-![](../.gitbook/assets/GCP.png)
+![](<../.gitbook/assets/GCP (1).png>)
 
 ## On-Prem Setup
 
