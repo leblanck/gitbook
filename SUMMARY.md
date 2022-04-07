@@ -12,6 +12,7 @@
 ## 🛠 Home Infrastructure
 
 * [Device Management](home-infrastructure/device-management.md)
-* [Network Configuration](home-infrastructure/network-configuration.md)
+* [Infrastructure Configuration](home-infrastructure/infrastructure-configuration.md)
 * [VPN](home-infrastructure/vpn.md)
 * [Pi-Hole](home-infrastructure/pi-hole.md)
+* [Ghost](home-infrastructure/ghost.md)
