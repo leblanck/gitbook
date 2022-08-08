@@ -40,6 +40,8 @@ Primary Color Dark: #0E0A01
 
 Secondary Color: #73786B
 
+![](../.gitbook/assets/palette.png)
+
 ## Managing The Workbench Itself
 
 All blog management tasks, creating new posts, creating new users, uploading updated themes, etc is done from the Ghost console. To access the Ghost console please navigate to: [blog.leblanc.sh/ghost](https://blog.leblanc.sh/ghost)
