@@ -16,7 +16,4 @@
 * [VPN](home-infrastructure/vpn.md)
 * [Pi-Hole](home-infrastructure/pi-hole.md)
 * [Ghost](home-infrastructure/ghost.md)
-
-***
-
-* [Domain Management](domain-management.md)
+* [Domain Management](home-infrastructure/domain-management.md)
