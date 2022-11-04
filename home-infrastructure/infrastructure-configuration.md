@@ -4,12 +4,29 @@ description: Home/Cloud Infrastructure Setup
 
 # Infrastructure Configuration
 
-## Google Cloud Setup
+<figure><img src="../.gitbook/assets/Infra.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/GCP (1).png>)
 
-## On-Prem Setup
+
+<details>
+
+<summary>Google Cloud Setup [DEPRECATED]</summary>
+
+[https://i.imgur.com/mFwfkY0.png](https://i.imgur.com/mFwfkY0.png)
+
+</details>
+
+<details>
+
+<summary>On-Prem Setup [DEPRECATED]</summary>
 
 Our on-prem setup was configured as below. This has now been decomissioned during our move.&#x20;
 
-!["On-prem" network setup. Not Currently in use as of 1/12/22](../.gitbook/assets/download.png)
+[https://i.imgur.com/AhvhTsZ.png](https://i.imgur.com/AhvhTsZ.png)
+
+
+
+</details>
+
+##
+
