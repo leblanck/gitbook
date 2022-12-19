@@ -6,6 +6,18 @@ description: Home/Cloud Infrastructure Setup
 
 <figure><img src="../.gitbook/assets/Infra.png" alt=""><figcaption></figcaption></figure>
 
+### To Do
+
+* [ ] Edit Diagram to show Cloudflare Tunnel
+* [ ] Edit Diagram to show additional reporting to Datadog
+* [ ] Edit Diagram to show additional containers etc
+
+
+
+
+
+
+
 
 
 <details>

@@ -16,3 +16,4 @@ description: What domains do we have and what are they for?
 | pinkrhino.studio    | PinkRhino Blog             | Netlify     | Hover     |
 | kyleblanc.com       | n/a                        | Hover       | Hover     |
 | kyleblanc.dev       | Freelance Dev Website      | Hover       | Hover     |
+| leblanc.wtf         | Cloudflare Tunnel          | Cloudflare  | Hover     |
