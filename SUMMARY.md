@@ -23,4 +23,4 @@
 * [📉 Grafana](apps/grafana.md)
 * [📈 Uptime Kuma](apps/uptime-kuma.md)
 * [📓 Calibre-Web](apps/calibre-web.md)
-* [👻 Ghost](apps/ghost.md)
+* [👻 Ghost](home-infrastructure/ghost.md)

@@ -10,7 +10,7 @@ This documentation is for our blog: [The Workbench (blog.leblanc.sh)](https://bl
 
 Credentials for Digital Ocean are provided in 1Password.&#x20;
 
-Please see [infrastructure-configuration.md](../home-infrastructure/infrastructure-configuration.md "mention") for a diagram of how Digital Ocean fits into our enrivonment.&#x20;
+Please see [infrastructure-configuration.md](infrastructure-configuration.md "mention") for a diagram of how Digital Ocean fits into our enrivonment.&#x20;
 
 ## Managing The ghost-prod Droplet
 
