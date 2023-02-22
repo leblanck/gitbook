@@ -2,7 +2,7 @@
 description: Apple Device Management Information
 ---
 
-# Device Management
+# 💻 Device Management
 
 All of our Apple devices are managed via Jamf (Jamf Now specifically)
 

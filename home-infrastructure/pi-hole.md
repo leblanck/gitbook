@@ -2,7 +2,7 @@
 description: How Pi-Hole is Set up in GCP and On-Prem
 ---
 
-# Pi-Hole
+# 🕳 Pi-Hole
 
 ## Intro
 

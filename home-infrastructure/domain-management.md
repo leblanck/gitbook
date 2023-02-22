@@ -2,7 +2,7 @@
 description: What domains do we have and what are they for?
 ---
 
-# Domain Management
+# 🌐 Domain Management
 
 | Domain Name         | Purpose                    | Name Server | Registrar |
 | ------------------- | -------------------------- | ----------- | --------- |
@@ -17,3 +17,13 @@ description: What domains do we have and what are they for?
 | kyleblanc.com       | n/a                        | Hover       | Hover     |
 | kyleblanc.dev       | Freelance Dev Website      | Hover       | Hover     |
 | leblanc.wtf         | Cloudflare Tunnel          | Cloudflare  | Hover     |
+
+### Tunnels
+
+| URL                   | MAPS TO                                                  | APP         |
+| --------------------- | -------------------------------------------------------- | ----------- |
+| casa.leblanc.wtf      | [http://192.168.1.105:88](http://192.168.1.105:88)       | CasaOS      |
+| status.leblanc.wtf    | [http://192.168.1.105:3001](http://192.168.1.105:3001)   | Uptime Kuma |
+| jelly.leblanc.wtf     | [http://192.168.1.105:8096](http://192.168.1.105:8096)   | Jellyfin    |
+| portainer.leblanc.wtf | [https://192.168.1.105:9443](https://192.168.1.105:9443) | Portainer   |
+| books.leblanc.wtf     | [http://192.168.1.105:8083](http://192.168.1.105:8083)   | Calibre-Web |

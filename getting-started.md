@@ -2,7 +2,7 @@
 description: Software and GitHub Setup
 ---
 
-# Getting Started
+# 👟 Getting Started
 
 ### New Computer Setup
 

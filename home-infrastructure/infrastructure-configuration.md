@@ -2,7 +2,7 @@
 description: Home/Cloud Infrastructure Setup
 ---
 
-# Infrastructure Configuration
+# ⚙ Infrastructure Configuration
 
 <figure><img src="../.gitbook/assets/Infra.png" alt=""><figcaption></figcaption></figure>
 
