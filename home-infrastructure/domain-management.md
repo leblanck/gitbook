@@ -7,6 +7,7 @@ description: What domains do we have and what are they for?
 | Domain Name         | Purpose                    | Name Server | Registrar |
 | ------------------- | -------------------------- | ----------- | --------- |
 | leblanc.sh          | Personal Website           | Netlify     | Hover     |
+| fleet.leblanc.sh    | FleetDM                    | Netlify     | Hover     |
 | blog.leblanc.sh     | Hosting The Workbench Blog | Netlify     | Hover     |
 | photo.leblanc.sh    | Photography Website        | Netlify     | Hover     |
 | docs.leblanc.sh     | Documentation on GitBook   | Netlify     | Hover     |
@@ -20,10 +21,11 @@ description: What domains do we have and what are they for?
 
 ### Tunnels
 
-| URL                   | MAPS TO                                                  | APP         |
-| --------------------- | -------------------------------------------------------- | ----------- |
-| casa.leblanc.wtf      | [http://192.168.1.105:88](http://192.168.1.105:88)       | CasaOS      |
-| status.leblanc.wtf    | [http://192.168.1.105:3001](http://192.168.1.105:3001)   | Uptime Kuma |
-| jelly.leblanc.wtf     | [http://192.168.1.105:8096](http://192.168.1.105:8096)   | Jellyfin    |
-| portainer.leblanc.wtf | [https://192.168.1.105:9443](https://192.168.1.105:9443) | Portainer   |
-| books.leblanc.wtf     | [http://192.168.1.105:8083](http://192.168.1.105:8083)   | Calibre-Web |
+| URL                   | MAPS TO                     | APP         |
+| --------------------- | --------------------------- | ----------- |
+| casa.leblanc.wtf      | http://192.168.40.105:88    | CasaOS      |
+| status.leblanc.wtf    | http://192.168.40.105:3001  | Uptime Kuma |
+| jelly.leblanc.wtf     | http://192.168.40.105:8096  | Jellyfin    |
+| portainer.leblanc.wtf | https://192.168.40.105:9443 | Portainer   |
+| books.leblanc.wtf     | http://192.168.40.105:8083  | Calibre-Web |
+
