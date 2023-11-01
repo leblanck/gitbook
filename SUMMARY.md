@@ -20,6 +20,7 @@
 
 ## 🧇 APPS
 
+* [Wazuh](apps/wazuh.md)
 * [📉 Grafana](apps/grafana.md)
 * [📈 Uptime Kuma](apps/uptime-kuma.md)
 * [📓 Calibre-Web](apps/calibre-web.md)

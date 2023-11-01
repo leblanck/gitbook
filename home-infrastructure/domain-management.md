@@ -4,20 +4,7 @@ description: What domains do we have and what are they for?
 
 # 🌐 Domain Management
 
-| Domain Name         | Purpose                    | Name Server | Registrar |
-| ------------------- | -------------------------- | ----------- | --------- |
-| leblanc.sh          | Personal Website           | Netlify     | Hover     |
-| fleet.leblanc.sh    | FleetDM                    | Netlify     | Hover     |
-| blog.leblanc.sh     | Hosting The Workbench Blog | Netlify     | Hover     |
-| photo.leblanc.sh    | Photography Website        | Netlify     | Hover     |
-| docs.leblanc.sh     | Documentation on GitBook   | Netlify     | Hover     |
-| home.leblanc.sh     | Custom Browser Homepage    | Netlify     | Hover     |
-| creative.leblanc.sh | Creative Department        | Netlify     | Hover     |
-| leblancracing.com   | LeBlanc Racing Home        | Netlify     | Hover     |
-| pinkrhino.studio    | PinkRhino Blog             | Netlify     | Hover     |
-| kyleblanc.com       | n/a                        | Hover       | Hover     |
-| kyleblanc.dev       | Freelance Dev Website      | Hover       | Hover     |
-| leblanc.wtf         | Cloudflare Tunnel          | Cloudflare  | Hover     |
+<table><thead><tr><th>Domain Name</th><th>Purpose</th><th width="200">Name Server</th><th>Registrar</th></tr></thead><tbody><tr><td>leblanc.sh</td><td>Personal Website</td><td>Netlify</td><td>Hover</td></tr><tr><td>fleet.leblanc.sh</td><td>FleetDM</td><td>Netlify</td><td>Hover</td></tr><tr><td>blog.leblanc.sh</td><td>Hosting The Workbench Blog</td><td>Netlify</td><td>N/A</td></tr><tr><td>photo.leblanc.sh</td><td>Photography Website</td><td>Netlify</td><td>N/A</td></tr><tr><td>docs.leblanc.sh</td><td>Documentation on GitBook</td><td>Netlify</td><td>N/A</td></tr><tr><td>home.leblanc.sh</td><td>Custom Browser Homepage</td><td>Netlify</td><td>N/A</td></tr><tr><td>creative.leblanc.sh</td><td>Creative Department</td><td>Netlify</td><td>N/A</td></tr><tr><td>leblancracing.com</td><td>LeBlanc Racing Home</td><td>Netlify</td><td>Hover</td></tr><tr><td>pinkrhino.studio</td><td>PinkRhino Blog</td><td>Netlify</td><td>Hover</td></tr><tr><td>kyleblanc.com</td><td>n/a</td><td>Hover</td><td>Hover</td></tr><tr><td>kyleblanc.dev</td><td>Freelance Dev Website</td><td>Hover</td><td>Hover</td></tr><tr><td>leblanc.wtf</td><td>Cloudflare Tunnel</td><td>Cloudflare</td><td>Hover</td></tr><tr><td>root.leblanc.sh</td><td>Root URL</td><td>Netlify</td><td>N/A</td></tr></tbody></table>
 
 ### Tunnels
 
